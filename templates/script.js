@@ -105,175 +105,175 @@ if (navigator.geolocation) {
                 35.323068714057,
                 139.4239731999947,
                 "red.png",
-                "名前:茅ヶ崎市立浜須賀小学校<br>所在地:茅ヶ崎市白浜町3-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/049/hamasukas.pdf"
+                "名前:茅ヶ崎市立浜須賀小学校<br>所在地:茅ヶ崎市白浜町3-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/049/hamasukas.pdf"
             ],
             [
                 "茅ヶ崎市立鶴が台小学校",
                 35.34797218716766,
                 139.4049905325146,
                 "red.png",
-                "名前:茅ヶ崎市立鶴が台小学校<br>所在地:茅ヶ崎市鶴が台12-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/050/turugadais.pdf"
+                "名前:茅ヶ崎市立鶴が台小学校<br>所在地:茅ヶ崎市鶴が台12-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/050/turugadais.pdf"
             ],
             [
                 "茅ヶ崎市立小和田小学校",
                 35.343898195036125,
                 139.43894062884743,
                 "red.png",
-                "名前:茅ヶ崎市立小和田小学校<br>所在地:茅ヶ崎市小和田三丁目10-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/051/kowadas.pdf"
+                "名前:茅ヶ崎市立小和田小学校<br>所在地:茅ヶ崎市小和田三丁目10-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/051/kowadas.pdf"
             ],
             [
                 "茅ヶ崎市立円蔵小学校",
                 35.34244386129535,
                 139.40764427106527,
                 "red.png",
-                "名前:茅ヶ崎市立円蔵小学校<br>所在地:茅ヶ崎市円蔵一丁目13-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/052/enzos.pdf"
+                "名前:茅ヶ崎市立円蔵小学校<br>所在地:茅ヶ崎市円蔵一丁目13-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/052/enzos.pdf"
             ],
             [
                 "茅ヶ崎市立室田小学校",
                 35.34608469108344,
                 139.42056567375008,
                 "red.png",
-                "名前:茅ヶ崎市立円蔵小学校<br>所在地:茅ヶ崎市室田一丁目1-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/053/murotas.pdf"
+                "名前:茅ヶ崎市立円蔵小学校<br>所在地:茅ヶ崎市室田一丁目1-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/053/murotas.pdf"
             ],
             [
                 "茅ヶ崎市立東海岸小学校",
                 35.320195877104204,
                 139.4138270155128,
                 "red.png",
-                "名前:茅ヶ崎市立東海岸小学校<br>所在地:茅ヶ崎市東海岸南四丁目10-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/039/986/higashikaiganc.pdf"
+                "名前:茅ヶ崎市立東海岸小学校<br>所在地:茅ヶ崎市東海岸南四丁目10-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/039/986/higashikaiganc.pdf"
             ],
             [
                "茅ヶ崎市立緑が浜小学校",
                35.32330233544516,
                139.43249441696986,
                "red.png",
-               "名前:茅ヶ崎市立緑が浜小学校<br>所在地:茅ヶ崎市緑が浜1-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/054/midorigahamas.pdf"
+               "名前:茅ヶ崎市立緑が浜小学校<br>所在地:茅ヶ崎市緑が浜1-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/054/midorigahamas.pdf"
             ],
             [
                 "茅ヶ崎市立汐見台小学校",
                 35.32122659369651,
                 139.43735208656528,
                 "red.png",
-                "名前:茅ヶ崎市立汐見台小学校<br>所在地:茅ヶ崎市汐見台3-11<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/055/shiomidais.pdf"
+                "名前:茅ヶ崎市立汐見台小学校<br>所在地:茅ヶ崎市汐見台3-11<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/055/shiomidais.pdf"
             ],
             [
                 "茅ヶ崎市立第一中学校",
                 35.31992836354486,
                 139.41471404230597,
                 "red.png",
-                "名前:茅ヶ崎市立第一中学校<br>所在地:東海岸南四丁目10-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/039/987/daiichic.pdf"
+                "名前:茅ヶ崎市立第一中学校<br>所在地:東海岸南四丁目10-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/039/987/daiichic.pdf"
             ],
             [
                 "茅ヶ崎市立松林中学校",
                 35.3404539793014,
                 139.4207277089047,
                 "red.png",
-                "名前:茅ヶ崎市立松林中学校<br>所在地:室田三丁目1-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/056/syorinc.pdf"
+                "名前:茅ヶ崎市立松林中学校<br>所在地:室田三丁目1-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/056/syorinc.pdf"
             ],
             [
                 "茅ヶ崎市立西浜中学校",
                 35.31888217298398,
                 139.39110711539377,
                 "red.png",
-                "名前:茅ヶ崎市立西浜中学校<br>所在地:茅ヶ崎市南湖六丁目15-3<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/057/nishihamac.pdf"
+                "名前:茅ヶ崎市立西浜中学校<br>所在地:茅ヶ崎市南湖六丁目15-3<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/057/nishihamac.pdf"
             ],
             [
                 "茅ヶ崎市立松浪中学校",
                 35.32925679480089,
                 139.43619170000878,
                 "red.png",
-                "名前:茅ヶ崎市立松浪中学校<br>所在地:茅ヶ崎市松浪二丁目6-47<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/058/matunamic.pdf"
+                "名前:茅ヶ崎市立松浪中学校<br>所在地:茅ヶ崎市松浪二丁目6-47<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/058/matunamic.pdf"
             ],
             [
                "茅ヶ崎市立鶴が台中学校",
                35.34852403802822,
                139.41100939999305,
                "red.png",
-               "名前:茅ヶ崎市立鶴が台中学校<br>所在地:鶴が台2-7<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/060/turugadaic.pdf"
+               "名前:茅ヶ崎市立鶴が台中学校<br>所在地:鶴が台2-7<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/060/turugadaic.pdf"
             ],
             [
                 "茅ヶ崎市立浜須賀中学校",
                 35.32646947701363,
                 139.42473392884293,
                 "red.png",
-                "名前:茅ヶ崎市立浜須賀中学校<br>所在地:松が丘二丁目8-54<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/061/hamasukac.pdf"
+                "名前:茅ヶ崎市立浜須賀中学校<br>所在地:松が丘二丁目8-54<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/061/hamasukac.pdf"
             ],
             [
                 "茅ヶ崎市立北陽中学校",
                 35.36609406511969,
                 139.40928777115224,
                 "red.png",
-                "名前:茅ヶ崎市立北陽中学校<br>所在地:茅ヶ崎市下寺尾1660<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/062/hokuyoc.pdf"
+                "名前:茅ヶ崎市立北陽中学校<br>所在地:茅ヶ崎市下寺尾1660<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/062/hokuyoc.pdf"
             ],
             [
                 "茅ヶ崎市立円蔵中学校",
                 35.34363899364669,
                 139.40887943080276,
                 "red.png",
-                "名前:茅ヶ崎市立円蔵中学校<br>所在地:茅ヶ崎市円蔵一丁目15-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/063/enzoc.pdf"
+                "名前:茅ヶ崎市立円蔵中学校<br>所在地:茅ヶ崎市円蔵一丁目15-1<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/063/enzoc.pdf"
             ],
             [
                 "茅ヶ崎市立赤羽根中学校",
                 35.34940433322875,
                 139.43731712883925,
                 "red.png",
-                "名前:茅ヶ崎市立赤羽根中学校<br>所在地:茅ヶ崎市赤羽根3030<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/064/akabanec.pdf"
+                "名前:茅ヶ崎市立赤羽根中学校<br>所在地:茅ヶ崎市赤羽根3030<br>説明:<br>種別：指定避難所<br>浸水区域：区域外<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/064/akabanec.pdf"
             ],
             [
                 "茅ヶ崎市立鶴嶺小学校",
                 35.33771125210918,
                 139.3898233356017,
                 "blue.png",
-                "名前:茅ヶ崎市立鶴嶺小学校<br>説明:<br>所在地:茅ヶ崎市浜之郷477<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/039/930/turumines.pdf"
+                "名前:茅ヶ崎市立鶴嶺小学校<br>説明:<br>所在地:茅ヶ崎市浜之郷477<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/039/930/turumines.pdf"
             ],
             [
                 "茅ヶ崎市立梅田小学校",
                 35.333104525685066,
                 139.40103833583413,
                 "blue.png",
-                "名前:茅ヶ崎市立梅田小学校<br>説明:<br>所在地:茅ヶ崎市茅ヶ崎一丁目6-1<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/072/umedas.pdf"
+                "名前:茅ヶ崎市立梅田小学校<br>説明:<br>所在地:茅ヶ崎市茅ヶ崎一丁目6-1<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/072/umedas.pdf"
             ],
             [
                 "茅ヶ崎市立柳島小学校",
                 35.32396273140081,
                 139.3777322597215,
                 "blue.png",
-                "名前:茅ヶ崎市立柳島小学校<br>説明:<br>所在地:茅ヶ崎市柳島1594<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/073/yanagishimas.pdf"
+                "名前:茅ヶ崎市立柳島小学校<br>説明:<br>所在地:茅ヶ崎市柳島1594<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/073/yanagishimas.pdf"
             ],
             [
                 "今宿小学校",
                 35.33658659606482,
                 139.38553701940836,
                 "blue.png",
-                "名前:今宿小学校<br>説明:<br>所在地:茅ヶ崎市今宿192<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/074/imajyukus.pdf"
+                "名前:今宿小学校<br>説明:<br>所在地:茅ヶ崎市今宿192<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/074/imajyukus.pdf"
             ],
             [
                 "茅ヶ崎市立鶴嶺中学校",
                 35.34089417164862,
                 139.39006879200255,
                 "blue.png",
-                "名前:茅ヶ崎市立鶴嶺中学校<br>説明:<br>所在地:茅ヶ崎市浜之郷500<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/076/turuminec.pdf"
+                "名前:茅ヶ崎市立鶴嶺中学校<br>説明:<br>所在地:茅ヶ崎市浜之郷500<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/076/turuminec.pdf"
             ],
             [
                 "茅ヶ崎市立梅田中学校",
                 35.33300854950827,
                 139.39879229388862,
                 "blue.png",
-                "名前:茅ヶ崎市立梅田中学校<br>説明:<br>所在地:茅ヶ崎市十間坂三丁目6-25<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/077/umedac.pdf"
+                "名前:茅ヶ崎市立梅田中学校<br>説明:<br>所在地:茅ヶ崎市十間坂三丁目6-25<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/077/umedac.pdf"
             ],
             [
                 "茅ヶ崎市立中島中学校",
                 35.32515485256144,
                 139.37510003950814,
                 "blue.png",
-                "名前:茅ヶ崎市立中島中学校<br>説明:<br>所在地:茅ヶ崎市中島1469-2<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/078/nakajimac.pdf"
+                "名前:茅ヶ崎市立中島中学校<br>説明:<br>所在地:茅ヶ崎市中島1469-2<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/078/nakajimac.pdf"
             ],
             [
                 "茅ヶ崎市立萩園中学校",
                 35.34132064143852,
                 139.38142863692104,
                 "blue.png",
-                "名前:茅ヶ崎市立萩園中学校<br>説明:<br>所在地:茅ヶ崎市萩園2425<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/079/hagisonoc.pdf"
+                "名前:茅ヶ崎市立萩園中学校<br>説明:<br>所在地:茅ヶ崎市萩園2425<br>区分：指定避難所<br>浸水想定区域：区域内<br>（注）河川の洪水により浸水するおそれがありますので、できる限り浸水想定区域外の避難所へ避難してください。<br>ペット同行避難：可<br>車での避難：原則禁止<br>避難所ガイド:<br>https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/040/079/hagisonoc.pdf"
             ],
             [
                 "神奈川県立茅ケ崎高等学校",
