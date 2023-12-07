@@ -50,19 +50,26 @@
     <button id="testButton">テストデータ表示</button> <!--ボタン-->
     <div id="real_time_data">ここにリアルタイムデータが表示されます</div>
     <div id="test_data" style="display: none;">
-        <!-- Flaskから渡されるテストデータを表示 -->
-        <strong>震央地名:</strong>{{ test_data[0].earthquake.hypocenter.name }}<br>
-        <strong>最大震度:</strong>{{ test_data[0].earthquake.hypocenter.maxScale }}<br>
-        <strong>マグニチュード:</strong>{{ test_data[0].earthquake.hypocenter.magnitude}}<br>
-        <strong>発生日時:</strong>{{ test_data[0].earthquake.time}}<br>
+        <!--テストデータの表示場所-->
     </div>
     </main> 
     <script>
+    var testEarthquakeData = {
+        name: "{{ test_data[0].earthquake.hypocenter.name }}",
+        maxScale: "{{ test_data[0].earthquake.hypocenter.maxScale }}",
+        magnitude: "{{ test_data[0].earthquake.hypocenter.magnitude }}",
+        time: "{{ test_data[0].earthquake.time }}"
+    };
     document.getElementById('testButton').addEventListener('click', function() {
         
         setTimeout(function() {    
         // n秒後にテストデータを表示し、n秒後にリアルタイムデータに戻す
             document.getElementById('real_time_data').style.display = 'none';
+            document.getElementById('test_data').innerHTML = 
+                `<strong>震央地名:</strong>${testEarthquakeData.name}<br>` +
+                `<strong>最大震度:</strong>${testEarthquakeData.maxScale}<br>` +
+                `<strong>マグニチュード:</strong>${testEarthquakeData.magnitude}<br>` +
+                `<strong>発生日時:</strong>${testEarthquakeData.time}<br>`;
             document.getElementById('test_data').style.display = 'block';
     
             playBuzzer(); // ブザー音を再生する
