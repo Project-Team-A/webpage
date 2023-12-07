@@ -96,3 +96,14 @@ h2{
 .pin img{
     border-radius:10px;;
 }
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #174a5c;
+    color: white;
+    text-align: center;
+}
+ul.footer-menu li {
+display: inline;
+}
