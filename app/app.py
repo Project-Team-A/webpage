@@ -18,7 +18,7 @@ def index():
     test_data = [
       {
         "earthquake": {
-          "time": "2023-12/06-12:00:00",
+          "time": "2023/12/08 23:10:05",
           "hypocenter": {
             "name": "神奈川県茅ヶ崎市",
             "magnitude": 3.4,
