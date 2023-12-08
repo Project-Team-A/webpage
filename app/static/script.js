@@ -1,5 +1,8 @@
 let userMarker; // Declare userMarker globally
 let destinationMarker; // Declare destinationMarker globally
+let map;
+let directionsDisplay;
+
 
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
