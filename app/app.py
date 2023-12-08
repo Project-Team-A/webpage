@@ -4,6 +4,7 @@ import requests
 app = Flask(__name__)
 
 @app.route('/')
+@app.route('/index')
 def index():
     # リアルタイム地震データの取得
     p2pquake_url = 'https://api.p2pquake.net/v2/history?codes=551&limit=1'
